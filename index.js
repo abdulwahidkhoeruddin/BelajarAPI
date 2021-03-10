@@ -13,5 +13,7 @@ app.use("/", APIRoutes);
 
 // Membuat server di port 3000
 app.listen(3000, ()=>{
-    console.log('berjalan di port 3000');
+    console.log('jalan di port 3000');
 })
+
+// Perubahan coding
